@@ -68,6 +68,4 @@ while(!success){
     learnSpringBoot();
     exploreAWS();
 }
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourname)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:your@email.com)
 

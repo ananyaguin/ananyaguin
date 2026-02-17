@@ -59,15 +59,6 @@
 
 ---
 
-## 💎 Featured Projects
-
-✈️ Airline Management System  
-📚 Library Management System  
-📰 Fake News Detection System  
-🎂 Interactive Birthday Website  
-
----
-
 ## 🧠 Developer Mindset
 
 ```java

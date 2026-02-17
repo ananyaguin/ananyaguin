@@ -1,15 +1,80 @@
-# 💫 About Me:
-Ananya Guin | 1st-year CS Student | Coding Enthusiast | Seeking Internship Opportunities<br><br><br><br>
 
+<h1 align="center">Hi 👋 I'm Ananya Guin</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ananyaguin&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ananyaguin&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaguin&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Java+Backend+Developer;Spring+Boot+Learner;DSA+in+Java+Enthusiast;Future+AWS+Cloud+Engineer;Always+Learning+🚀&center=true&width=500&height=45">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ananyaguin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌸 About Me
+
+🎓 2nd Year Computer Science Student  
+💻 Passionate about Backend Development  
+🚀 Currently mastering **Spring Boot**  
+🗄️ Strong foundation in **Core Java, JDBC, Servlets & MySQL**  
+🧠 Actively solving **DSA in Java**  
+☁️ Future **AWS Cloud Enthusiast**  
+🎯 Goal: Become a Skilled Java Backend Engineer  
+
+---
+
+## 🚀 Tech Stack
+
+### 👩‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Backend Development
+![JDBC](https://img.shields.io/badge/JDBC-00599C?style=for-the-badge)
+![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### ☁️ Cloud (Upcoming)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyaguin&show_icons=true&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaguin&layout=compact&theme=radical" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ananyaguin&theme=radical" height="170">
+</p>
+
+---
+
+## 🔥 Current Focus
+
+✔ Building Real-World Backend Projects  
+✔ Strengthening DSA Problem Solving  
+✔ Learning Advanced Spring Boot  
+✔ Preparing for Cloud & AWS  
+
+---
+
+## 💎 Featured Projects
+
+✈️ Airline Management System  
+📚 Library Management System  
+📰 Fake News Detection System  
+🎂 Interactive Birthday Website  
+
+---
+
+## 🧠 Developer Mindset
+
+```java
+while(!success){
+    practiceDSA();
+    buildProjects();
+    learnSpringBoot();
+    exploreAWS();
+}
+

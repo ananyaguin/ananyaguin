@@ -10,7 +10,7 @@
 ## 🌸 About Me
 
 🎓 2nd Year Computer Science Student  
-💻 Passionate about Backend Development  
+💻 Exploring AI implementation in JAVA  
 🚀 Currently mastering **Spring Boot**  
 🗄️ Strong foundation in **Core Java, JDBC, Servlets & MySQL**  
 🧠 Actively solving **DSA in Java**  

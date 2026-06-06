@@ -16,6 +16,10 @@
 🎯 Goal: Become a Skilled Java Backend Engineer  
 
 ---
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=ananyaguin&color=ff69b4)
+-----
 
 # 🚀 Tech Stack
 
@@ -59,7 +63,10 @@
 </p>
 
 ---
+## 📈 Contribution Graph
 
+[![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyaguin&theme=react-dark)](https://github.com/ananyaguin)
+---
 
 ## 🧠 Developer Mindset
 

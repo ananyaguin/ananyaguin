@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋 I'm Ananya Guin</h1>
 
 <p align="center">
@@ -13,14 +12,15 @@
 💻 Exploring AI implementation in JAVA  
 🚀 Currently mastering Spring Boot  
 🧠 Actively solving DSA in Java  
-🎯 Goal: Become a Skilled Java Backend Engineer  
+🎯 Goal: Become a Skilled Java Backend Engineer
 
 ---
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=ananyaguin&color=ff69b4)
------
 
+---
 
 # 🚀 Tech Stack
 
@@ -71,13 +71,28 @@
   <img src="https://streak-stats.demolab.com?user=ananyaguin&theme=radical" height="170">
 </p>
 
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyaguin&theme=github-compact" width="100%">
+</p>
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+## 📊 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyaguin&theme=github_dark" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananyaguin&theme=github_dark">
+</p>
 
 ---
+
 ## 🧠 Developer Mindset
 
 ```java
@@ -87,3 +102,8 @@ while(!success){
     learnSpringBoot();
     exploreAWS();
 }
+```
+
+---
+
+⭐ “Consistency beats intensity. Small progress every day compounds into expertise.”

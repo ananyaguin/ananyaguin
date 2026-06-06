@@ -56,6 +56,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ananyaguin&theme=radical&no-frame=true&no-bg=true&margin-w=10)
+
+---
 ## 🐍 Contribution Snake
 
 <p align="center">

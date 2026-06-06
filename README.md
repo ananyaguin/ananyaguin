@@ -75,9 +75,9 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ananyaguin/ananyaguin/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+## 📈 Contribution Graph
+
+[![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyaguin&theme=github-dark)](https://github.com/ananyaguin)
 
 ---
 

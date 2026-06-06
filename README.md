@@ -75,10 +75,9 @@
 
 ## 🐍 Contribution Snake
 
-## 📈 Contribution Graph
-
-[![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyaguin&theme=github-dark)](https://github.com/ananyaguin)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ananyaguin/ananyaguin/output/github-contribution-grid-snake-dark.svg" alt="snake">
+</p>
 ---
 
 ## 🧠 Developer Mindset

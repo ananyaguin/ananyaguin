@@ -74,6 +74,10 @@
 
 ---
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+
+---
 ## 🧠 Developer Mindset
 
 ```java

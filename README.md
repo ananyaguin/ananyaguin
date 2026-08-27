@@ -75,43 +75,6 @@ public class AnanyaGuin {
 
 <br/>
 
-## GitHub Analytics
-
-## 📊 GitHub Analytics
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ananyaguin&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaguin&layout=compact&theme=tokyonight" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ananyaguin&theme=tokyonight" height="180"/>
-
-</div>
-
-
-
-## Pinned Work
-
-<div align="center">
-<a href="https://github.com/ananyaguin/AirlineManagementAndSystem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ananyaguin&repo=AirlineManagementAndSystem&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ananyaguin/weather-mood-explorer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ananyaguin&repo=weather-mood-explorer&theme=tokyonight&hide_border=true" />
-</a>
-</div>
-
-<br/>
-
-<div align="center">
 
 > *"Consistency beats intensity. Small progress every day compounds into expertise."*
 
